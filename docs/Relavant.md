@@ -1,8 +1,6 @@
 # Relavant Works
 
-Here are some of our relavant works.
-
-Any links for us to review? E.g. research papers, blog posts, etc.
+**Here lists our previous relavant works.**
 
 Liu, Yulin, Yuxuan Lu, Kartik Nayak, Fan Zhang*, Luyao Zhang*, and Yinhong Zhao. 2022. “Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security.” ArXiv:2201.05574 [Cs Econ, Q-Fin], January.Arxiv:[ https://arxiv.org/abs/2201.05574](https://arxiv.org/abs/2201.05574). The 29th ACM Conference on Computer and Communications Security (CCS) 2022. Forthcoming 
 
