@@ -33,7 +33,7 @@ Luyao Zhang*, Xinshi Ma#, Yulin Liu* “SoK: Blockchain Decentralized.” Accept
  
 Ziqiao Ao#, Gergely Horvath*, Luyao Zhang.* “Are decentralized finance really decentralized? A social network analysis of AAVE protocol on Ethereum Blockchain.” Accepted at 29th Annual Global Finance Conference, Featuring the Keynote speaker Prof. Robert Engle, The 2003 Nobel Laureate in Economics Sciences, Braga, Portugal, June 20 – 22, 2022. Arxiv: [https://arxiv.org/abs/2206.08401](https://arxiv.org/abs/2206.08401); Github: [https://github.com/Blockchain-Network-Studies/BNS](https://github.com/Blockchain-Network-Studies/BNS)
 
- 
+Zhang, Luyao*, and Yulin Liu*. 2021. “Optimal Algorithmic Monetary Policy.” ArXiv:2104.07888 [Cs, Econ, Math, Q-Fin, Stat], October. Arxiv: [https://arxiv.org/abs/2104.07888](https://arxiv.org/abs/2104.07888). 
 
 Luyao Zhang, Chief Editor for the following three publications on Medium for exploratory research in SciEcon and intellectual conversation between academia and industry especially on Blockchain: 
 
