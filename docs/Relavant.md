@@ -31,7 +31,7 @@ Liu, Yulin, Yuxuan Lu#, Kartik Nayak, Fan Zhang*, Luyao Zhang*, and Yinhong Zhao
 
 Luyao Zhang*, Xinshi Ma#, Yulin Liu* “SoK: Blockchain Decentralized.” Accepted at 29th Annual Global Finance Conference, Featuring the Keynote speaker Prof. Robert Engle, The 2003 Nobel Laureate in Economics Sciences, Braga, Portugal, June 20 – 22, 2022. Arxiv: [https://arxiv.org/abs/2205.04256](https://arxiv.org/abs/2205.04256); Github: [https://github.com/SciEcon/SoK_Blockchain_Decentralization](https://github.com/SciEcon/SoK_Blockchain_Decentralization)
  
- Ziqiao Ao#, Gergely Horvath*, Luyao Zhang.* “Are decentralized finance really decentralized? A social network analysis of AAVE protocol on Ethereum Blockchain.” Accepted at 29th Annual Global Finance Conference, Featuring the Keynote speaker Prof. Robert Engle, The 2003 Nobel Laureate in Economics Sciences, Braga, Portugal, June 20 – 22, 2022. Arxiv: [https://arxiv.org/abs/2206.08401](https://arxiv.org/abs/2206.08401); Github: [https://github.com/Blockchain-Network-Studies/BNS](https://github.com/Blockchain-Network-Studies/BNS)
+Ziqiao Ao#, Gergely Horvath*, Luyao Zhang.* “Are decentralized finance really decentralized? A social network analysis of AAVE protocol on Ethereum Blockchain.” Accepted at 29th Annual Global Finance Conference, Featuring the Keynote speaker Prof. Robert Engle, The 2003 Nobel Laureate in Economics Sciences, Braga, Portugal, June 20 – 22, 2022. Arxiv: [https://arxiv.org/abs/2206.08401](https://arxiv.org/abs/2206.08401); Github: [https://github.com/Blockchain-Network-Studies/BNS](https://github.com/Blockchain-Network-Studies/BNS)
 
  
 
