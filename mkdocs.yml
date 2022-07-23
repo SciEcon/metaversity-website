@@ -22,6 +22,7 @@ theme:
 nav:
   - Home: index.md
   - About: About.md
+  - Relavant Works: Relavant.md
 
 markdown_extensions:
   - admonition

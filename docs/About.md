@@ -2,6 +2,224 @@
 
 ## Our Team
 
+<div class="grid-container">
+    <figure><img class="origin-img" id="luyao"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg"width="200" />
+        <figurecaption>Prof. Luyao Zhang</figurecaption>
+    </figure>
+    <figure><img class="origin-img" id="yulin"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg"width="200" />
+        <figurecaption>Prof. Yulin Liu</figurecaption>
+    </figure>
+    <figure><img class="origin-img" id="xinyu"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg"width="200" />
+        <figurecaption>Xinyu Tian</figurecaption>
+    </figure>
+    <figure><img class="origin-img" id="zesen"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg"width="200" />
+        <figurecaption>Zesen Zhuang</figurecaption>
+    </figure>
+</div>
+
+<!-- Modals -->
+<div id="luyao-modal" class="modal">
+
+  <!-- The Close Button -->
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="luyao-modal-img">
+  <span class="close">&times;</span>
+</div>
+<!-- Modals -->
+<div id="yulin-modal" class="modal">
+
+  <!-- The Close Button -->
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="yulin-modal-img">
+  <span class="close">&times;</span>
+</div>
+<!-- Modals -->
+<div id="xinyu-modal" class="modal">
+
+  <!-- The Close Button -->
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="xinyu-modal-img">
+</div>
+
+<!-- Modals -->
+  <span class="close">&times;</span>
+<div id="zesen-modal" class="modal">
+
+  <!-- The Close Button -->
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="zesen-modal-img">
+  <span class="close">&times;</span>
+</div>
+
+!!! note
+    *Hover your mouse on each avatars to see our NFTs*
+
+<style>
+.grid-container {
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr; 
+  gap: 20px 20px; 
+  grid-template-areas: 
+    ". . . ."
+}
+
+.grid-image {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+
+/* Style the Image Used to Trigger the Modal */
+.origin-img {
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.origin-img:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption {
+  animation-name: zoom;
+  animation-duration: 0.6s;
+  width: 600px;
+  height: 600px;
+}
+
+@keyframes zoom {
+  from {transform:scale(0)}
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  /* position: absolute; */
+  /* top: 15px;
+  right: 35px; */
+  margin: auto;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+</style> 
+
+<script>
+let modalNames = ['luyao-modal', 'yulin-modal', 'xinyu-modal', 'zesen-modal'];
+
+let modalImgNames = ['luyao-modal-img', 'yulin-modal-img', 'xinyu-modal-img', 'zesen-modal-img'];
+
+let nftLinks = [
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_道_Luyao%20Zhang.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_明_Yulin%20Liu.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_宇_Michelle%20Tian.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_和_Tianyu%20Wu.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_福_Zesen%20Zhuang.png'
+]
+
+let imgNames = ['luyao', 'yulin', 'xinyu', 'zesen'];
+
+// var images = [];
+// function preload() {
+//     for (var i = 0; i < arguments.length; i++) {
+//         images[i] = new Image();
+//         images[i].src = preload.arguments[i];
+//         console.log(images[i]);
+//     }
+// }
+
+// //-- usage --//
+// preload(
+//     'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_道_Luyao%20Zhang.png',
+//     'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_明_Yulin%20Liu.png',
+//     'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_宇_Michelle%20Tian.png',
+//     'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_和_Tianyu%20Wu.png',
+//     'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_福_Zesen%20Zhuang.png'
+// )
+
+for (let i = 0; i < 4; i++) {
+    var modal = document.getElementById(modalNames[i]);
+    var img = document.getElementById(imgNames[i]);
+    var modalImg = document.getElementById(modalImgNames[i]);
+    img.onclick = function(){
+        modal.style.display = "flex";
+        modal.style.flexDirection = "column";
+        modalImg.src = nftLinks[i];
+    }
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close");
+    for (let i = 0; i < 4; i++)
+    {
+        span[i].onclick = function() {
+        modal.style.display = "none";
+        }
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    
+}
+</script>
+
+
 ---
 
 <div style="display: flex;" markdown>
