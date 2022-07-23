@@ -59,9 +59,6 @@
   <span class="close">&times;</span>
 </div>
 
-!!! note
-    *Hover your mouse on each avatars to see our NFTs*
-
 <style>
 .grid-container {
   display: grid; 
