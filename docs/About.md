@@ -236,7 +236,7 @@ let luyaoHover = () => {
 <div markdown style="width: 70%;">
 **Name**: Luyao Zhang | 张露瑶
 
-**Title**: Founding President (Academia Primary, Industry Secondary)
+**Title**: Founding President
 
 **LinkedIn**: [https://www.linkedin.com/in/sunshineluyao/](https://www.linkedin.com/in/sunshineluyao/)
 
@@ -276,7 +276,7 @@ let yulinHover = () => {
 <div markdown style="width: 70%;">
 **Name**: Yulin Liu | 刘玉林
 
-**Title**: Founding President (Industry Primary, Academia Secondary)
+**Title**: Founding President
 
 **LinkedIn**: [https://www.linkedin.com/in/yulineth/](https://www.linkedin.com/in/yulineth/)
 
@@ -285,9 +285,15 @@ let yulinHover = () => {
 **Personal Website**: [https://www.yulinliu.me/](https://www.yulinliu.me/)
 
 !!! quote "Motto in light of eastern and western philosophy"
-    Brightness derives from day’s and night’s deduction.
+    “上善若水，水利万物而不争” —《道德经》
+    
+    The noblest virtue is like water, which nourishes all things without contending with them. 
 
-    日月相推而明生焉
+
+    “日往则月来，月往则日来，日月相推而明生焉” —《易·系辞》
+    
+    The sun rises while the moon sets. The moon rises while the sun sets. Brightness derives from day’s and night’s deduction.
+
 
 </div>
 </div>
