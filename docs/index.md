@@ -7,7 +7,7 @@
 
 ## Introduction
 
-### Overview of Metaversity
+### Overview of Metaversity on the Internet Computer
 
 The Metaversity on the Internet Computer project consists of three phases.
 
