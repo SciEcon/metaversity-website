@@ -4,25 +4,23 @@
 
 ## Innovate on the Internet Computer
 
-Innovate on the Internet Computer, Industry 4.0 Open Education Resource Publication Initiatives Series No. 1, EBOOK ISBN: 978-1-7923-8394-6, DOI:[ https://dx.doi.org/10.21428/bfffc129.db13dd8d](https://dx.doi.org/10.21428/bfffc129.db13dd8d); PubPub:[ https://ic.pubpub.org/](https://ic.pubpub.org/) 
+Innovate on the Internet Computer, Industry 4.0 Open Education Resource Publication Initiatives Series No. 1, EBOOK ISBN: 978-1-7923-8394-6, DOI:[ https://dx.doi.org/10.21428/bfffc129.db13dd8d](https://dx.doi.org/10.21428/bfffc129.db13dd8d); PubPub:[ https://ic.pubpub.org/](https://ic.pubpub.org/).
 
-Duke CS+ Program Project entitled “Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer, Summer 2021.
-GitHub Sites: [https://github.com/Rising-Stars-by-Sunshine/DukeCSPlus2021](https://github.com/Rising-Stars-by-Sunshine/DukeCSPlus2021)
-Duke University Program Website: [https://www.cs.duke.edu/undergrad/summer_research_2021](https://www.cs.duke.edu/undergrad/summer_research_2021)
+Duke CS+ Program Project entitled “Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer, Summer 2021. GitHub Sites: [https://github.com/Rising-Stars-by-Sunshine/DukeCSPlus2021](https://github.com/Rising-Stars-by-Sunshine/DukeCSPlus2021); Duke University Program Website: [https://www.cs.duke.edu/undergrad/summer_research_2021](https://www.cs.duke.edu/undergrad/summer_research_2021).
 
-Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer. [https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75](https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75)
+Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer. [https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75](https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75).
 
 
-ICy: A Decentralized Lending Protocol on the Internet Computer. [https://medium.com/sciecon-ama/icy-a-decentralized-lending-protocol-on-the-internet-computer-3b4eefb20313](https://medium.com/sciecon-ama/icy-a-decentralized-lending-protocol-on-the-internet-computer-3b4eefb20313)
+ICy: A Decentralized Lending Protocol on the Internet Computer. [https://medium.com/sciecon-ama/icy-a-decentralized-lending-protocol-on-the-internet-computer-3b4eefb20313](https://medium.com/sciecon-ama/icy-a-decentralized-lending-protocol-on-the-internet-computer-3b4eefb20313).
 
-WaterPark: A Decentralized Borrowing Protocol for the Internet Computer. [https://medium.com/sciecon-ama/waterpark-a-decentralized-borrowing-protocol-for-the-internet-computer-ce95940f5463](https://medium.com/sciecon-ama/waterpark-a-decentralized-borrowing-protocol-for-the-internet-computer-ce95940f5463)
+WaterPark: A Decentralized Borrowing Protocol for the Internet Computer. [https://medium.com/sciecon-ama/waterpark-a-decentralized-borrowing-protocol-for-the-internet-computer-ce95940f5463](https://medium.com/sciecon-ama/waterpark-a-decentralized-borrowing-protocol-for-the-internet-computer-ce95940f5463).
 
-Towards Decentralized Protocols: Call for Collaborations. [https://medium.com/sciecon-ama/towards-decentralized-protocols-call-for-collaborations-eec84c0ba154](https://medium.com/sciecon-ama/towards-decentralized-protocols-call-for-collaborations-eec84c0ba154)
+Towards Decentralized Protocols: Call for Collaborations. [https://medium.com/sciecon-ama/towards-decentralized-protocols-call-for-collaborations-eec84c0ba154](https://medium.com/sciecon-ama/towards-decentralized-protocols-call-for-collaborations-eec84c0ba154).
 
-Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta. [https://medium.com/sciecon-ama/prof-yu-xiong-calls-for-the-internet-computer-to-integrate-the-spirit-of-magna-carta-2e8367f6a3d7](https://medium.com/sciecon-ama/prof-yu-xiong-calls-for-the-internet-computer-to-integrate-the-spirit-of-magna-carta-2e8367f6a3d7)
+Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta. [https://medium.com/sciecon-ama/prof-yu-xiong-calls-for-the-internet-computer-to-integrate-the-spirit-of-magna-carta-2e8367f6a3d7](https://medium.com/sciecon-ama/prof-yu-xiong-calls-for-the-internet-computer-to-integrate-the-spirit-of-magna-carta-2e8367f6a3d7).
 
 
-Phonebook-ic: A phonebook DApp on the Internet Computer. [https://github.com/Crinstaniev/phonebook-ic](https://github.com/Crinstaniev/phonebook-ic) 
+Phonebook-ic: A phonebook DApp on the Internet Computer. [https://github.com/Crinstaniev/phonebook-ic](https://github.com/Crinstaniev/phonebook-ic). 
 
 ## Innovate on Blockchain in General
 
