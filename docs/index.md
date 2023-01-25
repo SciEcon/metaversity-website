@@ -1,7 +1,7 @@
 # Metaversity on the Internet Computer: Data Science Pipeline For Academic Research & Web 3.0 Education
 
 <figure markdown>
-  ![Metaversity](assets/metaversity-logo.png){ width=200 }
+  ![Metaversity](assets/metaversity-logo.png){ width=400 }
   <figcaption>Metaversity Logo</figcaption>
 </figure>
 
